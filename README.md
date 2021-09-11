@@ -2,7 +2,7 @@
 A minimalistic grub theme with Kakashi sensei as background  
 
 # Usage
-1. 
+1. Clone the repo
 
 2. Copy the theme to /boot/grub/themes/
 
